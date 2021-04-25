@@ -1,0 +1,117 @@
+body {
+    text-align: center;
+    margin: 0;
+    font-family: 'Merriweather', serif;
+    font-size: 150%;
+}
+
+p {
+    font-size: 90%;
+}
+
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.game-pic {
+    margin-top: 10px;
+    width: 30%;
+    float: right;
+}
+
+.profile-pic {
+    margin-top: 10px;
+    width: 50%;
+    text-align: left;
+}
+.skill-pic {
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+}
+
+.favicon-1 {
+    width: 200px;
+}
+h1 {
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    height: 90px;
+    color: #66BFBF;
+    /* margin: 0 auto 0 auto; same thing as below */
+    /* margin: 0 auto; */
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+a {
+    color: #11999E; 
+}
+
+.programmer-para {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    font-weight: normal;
+    line-height: 2;
+    color: #66BFBF;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.middle-container {
+    margin-top: 100px;
+}
+.bottom-container {
+    background-color: #E4F9F5;
+}
+
+.profile {
+    margin-top: 100px;
+    text-align: left;
+    width: 40%;
+    margin: auto;
+}
+
+.skill-row {
+    width: 60%;
+    margin-top: 100px;
+    margin: auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.copyright-para {
+    margin-bottom: 0;
+}
+
+.contact-me {
+    background-color: #E4F9F5;
+}
+
+.touch {
+    margin-top: 0;
+}
+.bottom-hr {
+    margin-bottom: 0;
+}
